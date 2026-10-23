@@ -1,4 +1,4 @@
-# Portfolio INAS
+# InasHab
 
 Portfolio personnel développé avec React.js et Node.js.
 
